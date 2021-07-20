@@ -11,7 +11,7 @@ In the project directory, you can run:
 
 ### `npm install`
 
-After downloading the project, Run the command to install the required packages.
+Installs the packages required to run the project.
 
 ### `npm start`
 
